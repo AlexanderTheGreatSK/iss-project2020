@@ -6,3 +6,6 @@ Used:
 
 ## About
 Goal of this project was to analyze recording and filter noice frequencies. More info is in documentation.
+
+## Evaluation
+16/18
